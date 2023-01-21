@@ -6,33 +6,58 @@ Incredible Four. The project is a media social, where you can find new friends, 
 
 Love a post? Drop a like! This is for the successor to Incredible Four.
 
-## Table Of Content
+<br />
+<br />
+  
+# Table Of Content
 
-- [Features](#features)
-- [Built with](#built-with)
-- [Demo](#demo)
-- [Future Improvements](#prototype)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Collaboration](#collaboration)
-- [Backend](#backend)
-- [Author](#author)
+ [Features](#features)
+ 
+ [Built with](#built-with)
+  
+ [Demo](#demo)
+ 
+ [Future Improvements](#prototype)
+ 
+ [Getting Started](#getting-started)
+ 
+ [Prerequisites](#prerequisites)
+ 
+ [Installation](#installation)
+ 
+ [Usage](#usage)
+ 
+ [Collaboration](#collaboration)
+ 
+ [Backend](#backend)
+ 
+ [Author](#author)
 
+  <br />
+  <br />
 
 # 💫 Features
 
-- Register & login
-- Show profile
-- Update profile
-- Deactivate account
-- Post a content
-- Update a content
-- Delete a content
-- Post a comment on a content
-- Delete a comment
+ Register & login
 
+ Show profile
+
+ Update profile
+
+ Deactivate account
+
+ Post a content
+
+ Update a content
+
+ Delete a content
+
+ Post a comment on a content
+
+ Delete a comment
+
+  <br />
+  <br />
 
 # 🛠️ Built With
 
@@ -47,10 +72,16 @@ Love a post? Drop a like! This is for the successor to Incredible Four.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <img src="https://img.shields.io/badge/Sweet Alert-7D4698?style=for-the-badge&logo=Sweet-Alert&logoColor=white" />
 
+  <br />
+  <br />
+  
 # 🌎 Demo
 
 Here is a working live demo - [Vercel](https://inc-four.vercel.app/)
 
+  <br />
+  <br />
+  
 # 🎨 Prototype
 ![Four4 Preview](./Device_-_Macbook_Pro.png)
 
@@ -65,49 +96,74 @@ Here is the link for the UI design : [Figma](https://figma.com/file/wzXZU72he49V
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+  <br />
+  <br />
+  
 # Prerequisites
 
-- npm
+ npm
   ```sh
   npm install npm@latest -g
   ```
 
+  <br />
+  <br />
+  
 # Installation
 
-1. Clone the repo
+ Clone the repo
    ```sh
    git clone https://github.com/incredible-four.git
    ```
-2. Install NPM packages
+ Install NPM packages
    ```sh
    npm install
    ```
 
+  <br />
+  <br />
+  
+  
 # Usage
 
 ```sh
 npm run dev
 ```
 
+  <br />
+  <br />
+  
+  
 # 🤝 Collaboration
 
-- [GitHub (Version Control System Platform)](https://github.com/incredible-four)
-- [Discord](https://discord.com/)
+[GitHub (Version Control System Platform)](https://github.com/incredible-four)
+ 
+[Discord](https://discord.com/)
 
+  <br />
+  <br />
+  
 # 🧰 Backend
 
-- [Github Repository for the Backend team](https://github.com/incredible-four/socialmedia-api)
-- [Swagger OpenAPI](https://app.swaggerhub.com/apis-docs/ALIFMUHAMADHAFIDZ23/SocialMedia-Group4/1.0.0)
+ [Github Repository for the Backend team](https://github.com/incredible-four/socialmedia-api)
 
+ [Swagger OpenAPI](https://app.swaggerhub.com/apis-docs/ALIFMUHAMADHAFIDZ23/SocialMedia-Group4/1.0.0)
+
+  <br />
+  <br />
+  
+  
 # 🤖 Author
 
-- Qonik Fajriyah :
+Qonik Fajriyah :
 
   [![GitHub](https://img.shields.io/badge/-Qonik-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fmqonik) 
-- M. Gumilang Tamasakti:
+
+ M. Gumilang Tamasakti:
 
   [![GitHub](https://img.shields.io/badge/-Tama-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamasakti) 
 
+  <br />
 <h5>
 <p align="center">Built with ❤️ by Incredible Four ©️ 2023</p>
 </h5>
